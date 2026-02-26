@@ -1,0 +1,126 @@
+<resources>
+    //-----------------title screen
+    <string name="app_name">My Application</string>
+    <string name="about_button_text">About</string>
+    <string name="profile_button_text">Profile</string>">
+    <string name="start_game_button_text">Start Game</string>">
+    //------------------about screen
+    <string name="rules_button_text">Poker dice rules</string>">
+    <string name="email_button_text">Email</string>">
+    <string name="how_to_play_text">Learn how to play Poker dice!</string>">
+    <string name="email_text">EMAIL</string>">
+    //----------------lobbies screen
+    <string name="enter_lobby_button_text">Enter lobby</string>">
+    <string name="create_lobby_button_text">Create lobby</string>
+    <string name="available_lobbies_text">Available lobbies</string>
+    <string name="no_lobbies_found_text">No available lobbies yet</string>
+    <string name="players_text">players</string>
+    <string name="rounds_text">rounds</string>
+    <string name="join_text">join</string>
+    <string name="number_of_players_text">Number of players</string>
+    <string name="number_of_rounds_text">Number of rounds</string>
+    <string name="create_lobby_text">Create lobby</string>
+    <string name="lobby_name_text">Lobby name</string>
+    //-----------------profile screen
+    <string name="logout_button_text">Logout</string>
+    <string name="text_to_try_again">Try again</string>
+    <string name="generate_invite_code_text">Create an invite code</string>
+    <string name="your_code_text">Your code:</string>
+    <string name="text_for_games_played">Games played</string>
+    <string name="text_for_games_won">Games won</string>
+    <string name="text_for_balance">Balance</string>
+    <string name="buy_more_text">Buy more</string>
+
+    //-----------------Create lobby screen
+    <string name="createLobbyDescription">Click the button bellow to create a lobby     After creating a lobby you will be directed to the lobby select screen.</string>
+    <string name="alter_numPlayers_text">Choose the player count</string>
+    <string name="alter_numRounds_text">Choose the number of rounds</string>
+    <string name="enter_name_text">Insert a lobby name</string>
+    <string name="update_lobbies_list">Update list</string>
+    <string name="list_of_available_lobbies">Available lobbies</string>
+    <string name="no_lobbies_visible">There are no visible lobbies</string>
+    <string name="public_text">PUBLIC</string>
+    <string name="private_text">PRIVATE</string>
+    <string name="rounds_with_R_text">Rounds</string>
+    <string name="in_the_room_text">In the room:</string>
+    <string name="return_to_lobby_text">Return to lobby</string>
+    <string name="lobby_full_text">Lobby full</string>
+    <string name="text_to_enter_the_lobby">Enter lobby</string>
+    <string name="lobbies_title_text">Lobbies</string>
+    <string name="close_lobby_text">Close the lobby?</string>
+    <string name="leave_lobby_text">Leave the lobby?</string>
+    <string name="host_leaving_text">You are the host, if you leave the lobby closes for everyone.</string>
+    <string name="confirm_going_back_to_the_list_text">Are you sure you want to go back to the list?</string>
+    <string name="leave_text">Leave</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="text_for_error">Error</string>
+    <string name="entering_game_text">Entering the game...</string>
+    <string name="host_text">Host:</string>
+    <string name="cost_text">Cost:</string>
+    <string name="rounds_with_dots_text">Rounds:</string>
+    <string name="players_with_P_text">Players:</string>
+    <string name="parenthesis_you_text">(You)</string>
+    <string name="text_to_start_the_game">Start game</string>
+    <string name="waiting_for_host_text">Waiting for the host...</string>
+    <string name="text_to_leave_the_lobby">Leave the lobby</string>
+    <string name="create_lobby_title_text">Create a lobby</string>
+    <string name="name_of_the_lobby_text">Name of the lobby</string>
+    <string name="description_text">Description</string>
+    <string name="cost_to_play_text">Cost to play (€)</string>
+    <string name="value_above_zero_text">The value must be above 0</string>
+    <string name="min_players_text">Min. players</string>
+    <string name="max_players_text">Max. players</string>
+    <string name="num_rounds_text">Num. rounds</string>
+    <string name="rounds_between_text">Rounds must be between</string>
+    <string name="and_text">and</string>
+    //---------------GameScreen
+    <string name="text_to_roll_the_dice">Roll</string>
+    <string name="text_to_reroll_the_dice">Reroll</string>
+    <string name="text_to_hold_the_dice">Hold</string>
+    <string name="syncronizing_the_table_text">Sincronizing the table...</string>
+    <string name="playing_text">PLAYING</string>
+    <string name="your_turn_roll_dice_text">Your turn! Roll the dice</string>
+    <string name="turn_of_text">Turn of</string>
+    <string name="roll_the_dice_text">Roll the die</string>
+    <string name="accept_hand_text">Accept hand</string>
+    <string name="ending_turn_text">Ending turn...</string>
+    <string name="end_of_round_text_text">End of round</string>
+    <string name="text_for_player">Player</string>
+    <string name="text_for_hand">Hand</string>
+    <string name="points_text">Points</string>
+    <string name="next_round_in_text">Next round in</string>
+    <string name="winner_text">Winner</string>
+    <string name="redirectioning_text">Redirecting in</string>
+    <string name="seconds_with_dots_text">seconds...</string>
+    //---------------AuthScreen
+    <string name="login_screen_title">Login</string>
+    <string name="emailOrUsername_text">Please insert an email or username</string>
+    <string name="password_text">Insert a password</string>
+    <string name="create_user_button_text">Create a user</string>
+    <string name="login_user_button_text">Login as user</string>
+    <string name="wrong_user_pass_error_message">Username or password are incorrect</string>
+    <string name="user_already_exists">User already exists</string>
+    <string name="loading_text">Loading...</string>
+    <string name="try_again_text">Please try again</string>
+    <string name="auth_screen_title_text">Autentication</string>
+    <string name="create_account_text">Create account</string>
+    <string name="enter_account_title_text">Enter</string>
+    <string name="invitation_code_text">Invite code</string>
+    <string name="name_text">Name</string>
+    <string name="auth_password_text">Password</string>
+    <string name="hide_text">Hide</string>
+    <string name="show_text">Show</string>
+    <string name="existing_account_text">Have an account?, login</string>
+    <string name="no_existing_account_text">Don\'t have an account?, create one</string>
+    <string name="auth_title_authentication_text">Authentication</string>
+    //---------------ShopScreen
+    <string name="current_money_with_dots_text">Current money:</string>
+    <string name="chose_your_packet_text">Chose your packet</string>
+    <string name="best_value_text">✨ Best Value</string>
+    <string name="starter_pack_text">Starter Pack</string>
+    <string name="coin_feast_text">Coin Feast</string>
+    <string name="treasure_chest_text">Treasure Chest</string>
+    <string name="money_rain_text">Money Rain</string>
+    <string name="i_have_a_problem_text">I Have a Problem</string>
+
+</resources>
